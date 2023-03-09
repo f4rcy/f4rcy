@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&color=FFC4C4&background=F0FF3200&width=435&lines=+%3CLenguajes+y+herramientas%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=1&pause=1000&color=FFC4C4&center=true&width=435&lines=Skills" alt="Typing SVG" /></a>
 </p> 
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="63" height="63"/> </a> 
