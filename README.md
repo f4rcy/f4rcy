@@ -12,3 +12,11 @@
 </p> 
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="63" height="63"/> </a> 
+
+ <!--comentario, esto lo usaremos cuando sepamos bash.. lo encontramos en https://skillicons.dev-->
+    
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+  </a>
+</p> -->
