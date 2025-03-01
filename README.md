@@ -19,5 +19,7 @@
     </a>
 </p>
 
-<img src="https://media.giphy.com/media/VlaYG04pQH4dKnuL0n/giphy.gif" width="300"/>
-
+<!-- Alinear el gif a la derecha usando HTML -->
+<p align="right">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBuMTI0dWRrODVkN3hvOWlvdjc3cjBnNGFvMHVsZHhmbHB2bnhjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KApYzjMVnBB9mH3fRn/giphy.gif" width="300"/>
+</p>
